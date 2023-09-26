@@ -18,11 +18,11 @@
 
 ### Sobre 📌
 Projeto desenvolvido para um **trabalho da faculdade**, nesse trabalho era necessário criar um site estático de tema livre usando bootstrap que seja responsivo e publica-lo no github pages.
-Ele foi feito usando um [tamplate](https://adryfernandes.github.io/curso-de-idiomas-web-html/) para otimização da tarefa, e o tema escolhido foi site de idiomas. 
+Ele foi feito usando um [tamplate](https://startbootstrap.com/template/business-frontpage) para otimização da tarefa, e o tema escolhido foi site de idiomas. 
 
 Nele aprendi mais sobre o bootstrap e sua responsividade, sobre a existência de sites com templates prontos e como adicionar mapas a um site estático.
 
-Link para o projeto no github pages: https://adryfernandes.github.io/projeto-bootstrap-faculdade/
+Link para o projeto no github pages: https://adryfernandes.github.io/curso-de-idiomas-web-html
 
 <br/>
 
