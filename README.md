@@ -1,10 +1,20 @@
-# Site de curso de linguas 
+<h1 align="center"> Site de curso de linguas </h1>
 
-<nav>
+<p align="center">
   <a href="#sobre-"> Sobre </a> &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
   <a href="#tecnologias-">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#suporte-"> Suporte </a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</nav>
+  <a href="#suporte-"> Suporte </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/adryanefernandes" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=author&message=adryanefernandes&color=709831&labelColor=3b6300" alt="Github"> 
+  </a>
+  <img src="https://img.shields.io/github/stars/adryfernandes/projeto-bootstrap-faculdade?color=709831&labelColor=3b6300" alt="Stars">
+  <img src="https://img.shields.io/github/last-commit/adryfernandes/projeto-bootstrap-faculdade?color=709831&labelColor=3b6300" alt="Commits">
+</p>
+
+<hr/>
 
 ### Sobre 📌
 Projeto desenvolvido para um **trabalho da faculdade**, nesse trabalho era necessário criar um site estático de tema livre usando bootstrap que seja responsivo e publica-lo no github pages.
@@ -14,13 +24,15 @@ Nele aprendi mais sobre o bootstrap e sua responsividade, sobre a existência de
 
 Link para o projeto no github pages: https://adryfernandes.github.io/projeto-bootstrap-faculdade/
 
+<br/>
+
 ### Tecnologias 👩‍💻
 - HTML5, CSS3 e Bootstrap
 
+<br/>
+
 ### Suporte 🤝
 Se esse projeto te ajudou de alguma forma, deixe uma ⭐️!
-
-E caso tenha algum feedback de melhoria, fique a vontade para entrar em contato comigo ou faze-lo de outra forma.
 
 ---
 <blockquote>
