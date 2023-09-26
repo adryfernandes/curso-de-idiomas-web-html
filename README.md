@@ -10,8 +10,8 @@
   <a href="https://github.com/adryanefernandes" target="_blank">
     <img src="https://img.shields.io/static/v1?label=author&message=adryanefernandes&color=709831&labelColor=3b6300" alt="Github"> 
   </a>
-  <img src="https://img.shields.io/github/stars/adryfernandes/projeto-bootstrap-faculdade?color=709831&labelColor=3b6300" alt="Stars">
-  <img src="https://img.shields.io/github/last-commit/adryfernandes/projeto-bootstrap-faculdade?color=709831&labelColor=3b6300" alt="Commits">
+  <img src="https://img.shields.io/github/stars/adryfernandes/curso-de-idiomas-web-html?color=709831&labelColor=3b6300" alt="Stars">
+  <img src="https://img.shields.io/github/last-commit/adryfernandes/curso-de-idiomas-web-html?color=709831&labelColor=3b6300" alt="Commits">
 </p>
 
 <hr/>
