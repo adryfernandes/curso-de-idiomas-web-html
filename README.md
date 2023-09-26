@@ -1,4 +1,4 @@
-<h1 align="center"> Site de curso de linguas </h1>
+<h1 align="center"> Site de curso de idiomas </h1>
 
 <p align="center">
   <a href="#sobre-"> Sobre </a> &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
